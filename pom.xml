@@ -3,4 +3,7 @@
   <groupId>GitBashProj1</groupId>
   <artifactId>GitBashProj1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+  <dependencies>
+  </dependencies>
 </project>
